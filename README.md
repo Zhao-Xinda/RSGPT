@@ -20,3 +20,16 @@ conda env create -f environment.yml
 
 ## Inference Codes
 https://github.com/Zhao-Xinda/RSGPT/tree/v1.0.0
+
+## Data and model weights
+```
+RSGPT_weight
+Link:  https://pan.baidu.com/s/1W0KZv8LyilJ0U66u7OT-Yw?pwd=qlg3 
+Extraction Code：qlg3
+
+USPTO_data
+Link：https://pan.baidu.com/s/1Zu4I1oen1zIHrma3PMFlJA?pwd=6ljh 
+Extraction Code：6ljh 
+```
+
+
